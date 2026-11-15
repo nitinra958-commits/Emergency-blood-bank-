@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+emergency_blood_bank.db
+emergency_blood_bank.db-shm
+emergency_blood_bank.db-wal
+*.csv
+*.db
